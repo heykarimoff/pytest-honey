@@ -10,9 +10,9 @@ pytest-honey
     :target: https://pypi.org/project/pytest-honey
     :alt: Python versions
 
-.. image:: https://ci.appveyor.com/api/projects/status/github/heykarimoff/pytest-honey?branch=master
-    :target: https://ci.appveyor.com/project/heykarimoff/pytest-honey/branch/master
-    :alt: See Build Status on AppVeyor
+.. image:: https://github.com/heykarimoff/pytest-honey/actions/workflows/python-package.yml/badge.svg?branch=main&event=push
+    :target: https://github.com/heykarimoff/pytest-honey/actions/workflows/python-package.yml
+    :alt: See Build Status on Actions
 
 A simple plugin to use with pytest
 
@@ -46,7 +46,6 @@ You can install "pytest-honey" via `pip`_ from `PyPI`_::
 Usage
 -----
 
-::
     $ pytest --honey
 
 
