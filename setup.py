@@ -13,7 +13,7 @@ def read(fname):
 
 setup(
     name='pytest-honey',
-    version='0.1.0',
+    version='0.2.0',
     author='Mukhammad Karimov',
     author_email='hey@karimoff.me',
     maintainer='Mukhammad Karimov',
